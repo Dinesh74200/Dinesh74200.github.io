@@ -328,7 +328,7 @@ nav .fa-solid{
 
 @media only screen and (max-width:600px){
     #Header{
-        background-image:url(image/imgimp.png) ;
+        background-image:url(images/Mobile.png) ;
             }
     .header-text{
         margin-top: 100%;
@@ -390,4 +390,5 @@ nav ul .fa-solid{
     color: rgb(46, 85, 8);
     margin-top: -40px;
     display: block;
+
 }
